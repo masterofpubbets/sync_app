@@ -1,0 +1,11 @@
+F:\Work\Programming\SyncApp\SyncApp\bin\Debug\SyncApp.exe.config
+F:\Work\Programming\SyncApp\SyncApp\bin\Debug\SyncApp.exe
+F:\Work\Programming\SyncApp\SyncApp\bin\Debug\SyncApp.pdb
+F:\Work\Programming\SyncApp\SyncApp\bin\Debug\SyncApp.xml
+F:\Work\Programming\SyncApp\SyncApp\obj\Debug\SyncApp.vbprojResolveAssemblyReference.cache
+F:\Work\Programming\SyncApp\SyncApp\obj\Debug\SyncApp.frmHome.resources
+F:\Work\Programming\SyncApp\SyncApp\obj\Debug\SyncApp.Resources.resources
+F:\Work\Programming\SyncApp\SyncApp\obj\Debug\SyncApp.vbproj.GenerateResource.Cache
+F:\Work\Programming\SyncApp\SyncApp\obj\Debug\SyncApp.exe
+F:\Work\Programming\SyncApp\SyncApp\obj\Debug\SyncApp.xml
+F:\Work\Programming\SyncApp\SyncApp\obj\Debug\SyncApp.pdb
